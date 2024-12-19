@@ -1,2 +1,3 @@
 Nama : Fitri Handayani
-Stambuk : F55123017
+NIM : F55123017
+Kelas : Teknik Informatika A
